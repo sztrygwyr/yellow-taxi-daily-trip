@@ -1,5 +1,6 @@
 # Project Overview
 This project is a data pipeline for analyzing and visualizing taxi trip data. It consists of two main components: data loading into a SQL Server database and aggregation/visualization of total trip amounts per day. The project uses Python scripts and leverages libraries such as pandas, pyodbc, and Plotly Express.
+The code assumes that the SQL Server authentication is set to trusted connection, where Windows Authentication is used.
 
 # Setup Instructions
 1. Clone the Repository:
