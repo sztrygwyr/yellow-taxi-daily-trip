@@ -1,0 +1,6 @@
+{
+    "server": "DESKTOP-CM95E6B",
+    "database": "noname",
+    "parquet_file_path": "yellow_tripdata_2023-01.parquet",
+    "table_name": "yellow_taxi_trips"
+}
