@@ -1,6 +1,6 @@
 {
-    "server": "DESKTOP-CM95E6B",
-    "database": "noname",
-    "parquet_file_path": "yellow_tripdata_2023-01.parquet",
-    "table_name": "yellow_taxi_trips"
+    "server": "Database Server Name",
+    "database": "Database Name",
+    "parquet_file_path": "Parquet File Name with or without Folder Path",
+    "table_name": "Target Table Name"
 }
