@@ -44,3 +44,6 @@ These incorrect values were a result of data formatting or scaling issues, which
 I addressed this issue by switching to Plotly Express, a library that provided accurate visualization of total amount values, including those in the millions.
 These challenges prompted to focus on optimizing the data processing pipeline within a single thread and database connection. Despite the limitations with parallelism and initial visualization libraries, I was able to achieve satisfactory performance improvements and accurate visualizations using alternative approaches.
 
+# Visualization Output
+
+![Visualization](Visualization.png)
